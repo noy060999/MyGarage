@@ -1,0 +1,4 @@
+include ':managerapp'
+include ':mylibrary'
+include ':app'
+rootProject.name = "GarageApp"
